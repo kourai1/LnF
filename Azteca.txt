@@ -97,7 +97,7 @@
     },
     {
       "item": "global_primary_button_background_color",
-      "value": "#C54600",
+      "value": "#ffd762",
       "enable": true
     },
     {
