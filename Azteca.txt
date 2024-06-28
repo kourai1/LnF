@@ -260,7 +260,7 @@
     {
       "item": "image_toolbar_name",
       "value": "image_toolbar",
-      "url": "https://raw.githubusercontent.com/kourai1/LnF/main/Cliente-Logo-Banco-Azteca.png?token=GHSAT0AAAAAACUG6SYIQF4QNW56VRDFKFBUZT7B5UQ",
+      "url": "https://raw.githubusercontent.com/kourai1/LnF/main/Cliente-Logo-Banco-Azteca.png",
       "enable": true
     }
   ]
