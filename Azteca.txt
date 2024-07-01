@@ -23,7 +23,7 @@
     },
     {
       "item": "home_keyboard_container_color",
-      "value": "#86bf06",
+      "value": "#113686",
       "enable": true
     },
     {
