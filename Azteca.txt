@@ -3,7 +3,7 @@
   "custom_ui": [
     {
       "item": "home_operation_color",
-      "value": "#eb001b",
+      "value": "#5b5b5b",
       "enable": true
     },
     {
@@ -13,12 +13,12 @@
     },
     {
       "item": "home_center_buys_color",
-      "value": "#eb001b",
+      "value": "#5b5b5b",
       "enable": true
     },
     {
       "item": "home_coin_color",
-      "value": "#eb001b",
+      "value": "#5b5b5b",
       "enable": true
     },
     {
@@ -58,12 +58,12 @@
     },
     {
       "item": "home_sub_menu_icon_color",
-      "value": "#eb001b",
+      "value": "#5b5b5b",
       "enable": true
     },
     {
       "item": "home_sub_menu_tex_color",
-      "value": "#eb001b",
+      "value": "#5b5b5b",
       "enable": true
     },
     {
@@ -97,7 +97,7 @@
     },
     {
       "item": "global_primary_button_background_color",
-      "value": "#eb001b",
+      "value": "#5b5b5b",
       "enable": true
     },
     {
@@ -167,7 +167,7 @@
     },
     {
       "item": "global_secondary_text_color",
-      "value": "#eb001b",
+      "value": "#5b5b5b",
       "enable": true
     },
     {
@@ -182,7 +182,7 @@
     },
     {
       "item": "total_summary_icon_print_color",
-      "value": "#eb001b",
+      "value": "#5b5b5b",
       "enable": true
     },
     {
@@ -202,7 +202,7 @@
     },
     {
       "item": "global_cancel_button_background_color",
-      "value": "#EB001B",
+      "value": "#5b5b5b",
       "enable": true
     },
     {
@@ -212,7 +212,7 @@
     },
     {
       "item": "global_checkout_button_background_color",
-      "value": "#eb001b",
+      "value": "#5b5b5b",
       "enable": true
     },
     {
