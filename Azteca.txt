@@ -3,7 +3,7 @@
   "custom_ui": [
     {
       "item": "home_operation_color",
-      "value": "#5b5b5b",
+      "value": "#eb001b",
       "enable": true
     },
     {
@@ -13,17 +13,17 @@
     },
     {
       "item": "home_center_buys_color",
-      "value": "#5b5b5b",
+      "value": "#eb001b",
       "enable": true
     },
     {
       "item": "home_coin_color",
-      "value": "#5b5b5b",
+      "value": "#eb001b",
       "enable": true
     },
     {
       "item": "home_keyboard_container_color",
-      "value": "#0b5394",
+      "value": "#86bf06",
       "enable": true
     },
     {
@@ -58,12 +58,12 @@
     },
     {
       "item": "home_sub_menu_icon_color",
-      "value": "#5b5b5b",
+      "value": "#eb001b",
       "enable": true
     },
     {
       "item": "home_sub_menu_tex_color",
-      "value": "#5b5b5b",
+      "value": "#eb001b",
       "enable": true
     },
     {
@@ -97,7 +97,7 @@
     },
     {
       "item": "global_primary_button_background_color",
-      "value": "#5b5b5b",
+      "value": "#eb001b",
       "enable": true
     },
     {
@@ -167,7 +167,7 @@
     },
     {
       "item": "global_secondary_text_color",
-      "value": "#5b5b5b",
+      "value": "#eb001b",
       "enable": true
     },
     {
@@ -182,7 +182,7 @@
     },
     {
       "item": "total_summary_icon_print_color",
-      "value": "#5b5b5b",
+      "value": "#eb001b",
       "enable": true
     },
     {
@@ -202,7 +202,7 @@
     },
     {
       "item": "global_cancel_button_background_color",
-      "value": "#5b5b5b",
+      "value": "#EB001B",
       "enable": true
     },
     {
@@ -212,7 +212,7 @@
     },
     {
       "item": "global_checkout_button_background_color",
-      "value": "#5b5b5b",
+      "value": "#eb001b",
       "enable": true
     },
     {
@@ -260,7 +260,7 @@
     {
       "item": "image_toolbar_name",
       "value": "image_toolbar",
-      "url": "https://raw.githubusercontent.com/kourai1/LnF/main/Mifel%20azul.png",
+      "url": "https://raw.githubusercontent.com/kourai1/LnF/main/Cliente-Logo-Banco-Azteca.png",
       "enable": true
     }
   ]
