@@ -260,7 +260,7 @@
     {
       "item": "image_toolbar_name",
       "value": "image_toolbar",
-      "url": "https://raw.githubusercontent.com/kourai1/LnF/main/Cliente-Logo-Banco-Azteca.png",
+      "url": "https://raw.githubusercontent.com/kourai1/LnF/main/Mifel%20azul.png",
       "enable": true
     }
   ]
