@@ -8,7 +8,7 @@
     },
     {
       "item": "home_amount_color",
-      "value": "#999999",
+      "value": "#000000",
       "enable": true
     },
     {
@@ -18,7 +18,7 @@
     },
     {
       "item": "home_coin_color",
-      "value": "#999999",
+      "value": "#000000",
       "enable": true
     },
     {
