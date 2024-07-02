@@ -82,7 +82,7 @@
     },
     {
       "item": "global_primary_text_color",
-      "value": "#e06666",
+      "value": "#000000",
       "enable": true
     },
     {
