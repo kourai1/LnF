@@ -92,7 +92,7 @@
     },
     {
       "item": "global_primary_button_text_color",
-      "value": "#000000",
+      "value": "#e06666",
       "enable": true
     },
     {
