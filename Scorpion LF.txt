@@ -31,7 +31,7 @@
     {
       "enable": true,
       "item": "home_keyboard_container_color",
-      "value": "#0441ad"
+      "value": "#023185"
     },
     {
       "enable": true,
