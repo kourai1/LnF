@@ -257,7 +257,7 @@
       "enable": true
     }
   ],
-  "custom_images_enable": true,
+  "custom_images_enable": false,
   "custom_images": [
     {
       "item": "image_toolbar_name",
