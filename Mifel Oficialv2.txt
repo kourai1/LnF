@@ -268,7 +268,7 @@
     {
       "item": "image_ticket_stripe",
       "value": "image_stripe",
-      "url": "https://th.bing.com/th/id/R.550fc84be478131b71f28bd17f9570f5?rik=yiVkKcJcIQEPrw&riu=http%3a%2f%2f1.bp.blogspot.com%2f-9fwkfT0PS5w%2fTh4LQ5AkhCI%2fAAAAAAAAAAk%2f252cxKgEfxQ%2fs1600%2fver_114.jpg&ehk=lwhvNbWuhdw0oxbEuM33xQUfSPLo7cFPgzk6pTqUevU%3d&risl=&pid=ImgRaw&r=0",
+      "url": "https://raw.githubusercontent.com/kourai1/LnF/refs/heads/main/MifelCintillo.json",
       "enable": true
     },
     {
