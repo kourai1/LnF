@@ -255,6 +255,11 @@
       "item": "global_tertiary_button_background_color",
       "value": "#00294B",
       "enable": true
+    },
+    {
+      "enable": true,
+      "item": "global_fourth_button_background_color",
+      "value": "#00AAA8"
     }
   ],
   "custom_images_enable": true,
