@@ -268,13 +268,13 @@
     {
       "item": "image_ticket_stripe",
       "value": "image_stripe",
-      "url": "https://raw.githubusercontent.com/kourai1/LnF/refs/heads/main/MifelCintillo.json",
+      "url": "https://raw.githubusercontent.com/kourai1/LnF/refs/heads/main/MifelCintillo.png",
       "enable": true
     },
     {
       "item": "image_watermark",
       "value": "image_watermark",
-      "url": "https://th.bing.com/th/id/OIP.mRgXGHCtyeA0NImcYFaVEQHaEN?rs=1&pid=ImgDetMain",
+      "url": "https://raw.githubusercontent.com/kourai1/LnF/refs/heads/main/Header.png",
       "enable": true
     }
   ],
