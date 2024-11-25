@@ -300,7 +300,7 @@
       "url_report": "https://gist.githubusercontent.com/JulioAntonioVelardeAlvarez/a3c59686302a172def7dbb6064b92804/raw/5a0968f8244e4e8302eb2d02697e496382de4114/print_report.json",
       "url_insert": "https://gist.githubusercontent.com/JulioAntonioVelardeAlvarez/a1799d9751b9493d1e935a3531f4db65/raw/806c664b8d046c044ead05798f51f83be3561863/insert_slide_approach_i9100_mifel.json",
       "url_remove": "https://gist.githubusercontent.com/JulioAntonioVelardeAlvarez/01af1f378e62ff95f63df935d112d535/raw/18f92191cb6ae0aab561cc637a6a973d871c765a/remove_card_i9100_mifel.json",
-      "url_loader": "https://gist.githubusercontent.com/JulioAntonioVelardeAlvarez/025d584f0e7225d1e9a12dfaadb4889c/raw/3d652591291fe049eda560560828941873f7ede5/loader.json",
+      "url_loader": "https://raw.githubusercontent.com/kourai1/LnF/refs/heads/main/loader.json,
       "enable": true
     }
   ]
