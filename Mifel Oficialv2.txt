@@ -274,7 +274,7 @@
     {
       "item": "image_watermark",
       "value": "image_watermark",
-      "url": "https://raw.githubusercontent.com/kourai1/LnF/refs/heads/main/Header.png",
+      "url": " ",
       "enable": false
     }
   ],
