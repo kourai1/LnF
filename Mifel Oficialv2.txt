@@ -257,7 +257,7 @@
       "enable": true
     }
   ],
-  "custom_images_enable": false,
+  "custom_images_enable": true,
   "custom_images": [
     {
       "item": "image_toolbar_name",
@@ -275,7 +275,7 @@
       "item": "image_watermark",
       "value": "image_watermark",
       "url": "https://raw.githubusercontent.com/kourai1/LnF/refs/heads/main/Header.png",
-      "enable": true
+      "enable": false
     }
   ],
   "custom_animations_enable": true,
