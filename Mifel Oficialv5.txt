@@ -148,7 +148,7 @@
     },
     {
       "item": "global_disabled_button_background_color",
-      "value": "#bcbcbc",
+      "value": "#00AAA8",
       "enable": true
     },
     {
