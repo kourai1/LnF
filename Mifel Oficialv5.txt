@@ -148,7 +148,7 @@
     },
     {
       "item": "global_disabled_button_background_color",
-      "value": "#ffffff",
+      "value": "#bcbcbc",
       "enable": true
     },
     {
@@ -260,11 +260,6 @@
       "enable": true,
       "item": "global_fourth_button_background_color",
       "value": "#00AAA8"
-    },
-    {
-      "enable": true,
-      "item": "global_disable_button_background_color",
-      "value": "#999999"
     }
   ],
   "custom_images_enable": true,
