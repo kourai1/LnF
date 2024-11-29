@@ -143,12 +143,12 @@
     },
     {
       "item": "global_disabled_button_text_color",
-      "value": "#AAAAAA",
+      "value": "#FFFFFF",
       "enable": true
     },
     {
       "item": "global_disabled_button_background_color",
-      "value": "#00AAA8",
+      "value": "#c8c8c8",
       "enable": true
     },
     {
