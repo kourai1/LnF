@@ -156,7 +156,7 @@
     {
       "enable": true,
       "item": "global_disabled_button_background_color",
-      "value": "#ffffff"
+      "value": "#C0C0C0"
     },
     {
       "enable": true,
