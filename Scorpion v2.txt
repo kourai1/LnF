@@ -278,7 +278,7 @@
       "item": "image_ticket_stripe",
       "value": "image_stripe",
       "url": "",
-      "enable": true
+      "enable": false
     },
     {
       "item": "image_watermark",
